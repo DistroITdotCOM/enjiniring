@@ -1,0 +1,39 @@
+[{
+	"id":1,
+	"text":"Enjiniring",
+	"children":[{
+		"id":11,
+		"text":"Laporan",
+		"state":"closed",
+		"children":[{
+			"id":111,
+			"text":"2016"
+		},{
+			"id":112,
+			"text":"2015"
+		},{
+			"id":113,
+			"text":"2014"
+		}]
+	},{
+		"id":12,
+		"text":"Analisa",
+		"children":[{
+			"id":121,
+			"text":"RCFA",
+			"tautan":"rcfa/view"
+		},{
+			"id":122,
+			"text":"Chronic Problem"
+		}]
+	},{
+		"id":13,
+		"text":"Manual Book"
+	},{
+		"id":14,
+		"text":"PLO"
+	},{
+		"id":15,
+		"text":"Dokumen Kontrol"
+	}]
+}]
